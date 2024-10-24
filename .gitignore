@@ -162,6 +162,5 @@ ret.txt
 
 migrations
 
-0007_blacklisted3rdpartyacct.py
 
-0008_remove_blacklisted3rdpartyacct_lockout_time_and_more.py
+sample.py
